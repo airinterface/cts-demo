@@ -24,7 +24,8 @@ Before you run please proceed with step 1, 2.
 
 #### Step 1
 cts-demo requires installing data, and configuring. 
-move the asset to ./dist/asset/data location as picture below 
+
+Move the asset to ./dist/asset/data location as picture below 
 
 [![N|Solid](https://github.com/airinterface/cts-demo/blob/master/doc/folder_sctructure.png)](https://github.com/airinterface/cts-demo/blob/master/doc/folder_sctructure.png)
 
