@@ -1,9 +1,7 @@
 # CTS prototype
 
-This uses vue and native vue component to use mapbox. 
+This displays map with the geojson marker using Vue architecture and its component as wraper for MapBox. 
 For now, geojson and ruster tiles are supported. 
-
-
 
 
 #preview
